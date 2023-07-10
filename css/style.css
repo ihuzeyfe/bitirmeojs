@@ -3,6 +3,13 @@
 }
 
 #hdrbg {
-    background-image: url(/assets/images/headerimg.jpg) !important;
+    background-image: url(/assets/images/hdrbg.jpg) !important;
+    background-color: darkslategrey;
+
 }
+
+#hdrbg a {
+    color: antiquewhite;
+}
+
 
