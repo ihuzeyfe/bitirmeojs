@@ -49,14 +49,14 @@ span {
     border-radius: 2px;
 }
 
- p {
+ #hdrp1 {
     margin-top: 50px !important;
     width: 500px !important;
-    height: auto;
-    border: solid 5px #0dcaf0;
-    margin-left: 70px;
-    border-radius: 20px;
-    font-size: 25px;
+    height: auto !important;
+    border: solid 5px #0dcaf0 !important;
+    margin-left: 70px !important;
+    border-radius: 20px !important;
+    font-size: 25px !important;
 }
 
 .fbttn {
@@ -76,3 +76,26 @@ span {
 
 SECTION1 */
 
+
+#section1 {
+    margin-top: 100px;
+    padding-bottom: 50px;
+}
+
+#sec1h2 {
+   margin-top: 150px;
+   color: #0dcaf0;
+   text-decoration: underline !important;
+}
+
+section h3 {
+    color: #0dcaf0;
+}
+
+.albertdiv {
+    display: flex !important;
+}
+
+.section2 p{
+    font-size: 25px;
+}
