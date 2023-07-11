@@ -1,15 +1,72 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+
+
 * {
     text-decoration: none !important;
 }
 
 #hdrbg {
     background-image: url(/assets/images/hdrbg.jpg) !important;
-    background-color: darkslategrey;
+    background-size: auto !important;
 
 }
 
 #hdrbg a {
     color: antiquewhite;
+    font-family: 'Agdasima', sans-serif;
+    font-size: x-large;
+    text-shadow: 2px 2px 5px #0dcaf0;
 }
 
+#navbarNav {
+    margin-left: 80px !important;
+}
 
+h1, p {
+    color: antiquewhite;
+    font-family: 'Agdasima', sans-serif;
+}
+
+#hdrimg1 {
+    border-radius: 30%;
+    margin-left: 80px;
+    margin-bottom: 20px;
+}
+
+#hdrimgdiv{
+    width: 450px !important;
+}
+
+header, h1 {
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+span {
+    color:blueviolet;
+    background-color: antiquewhite;
+    border-radius: 2px;
+}
+
+ p {
+    margin-top: 50px !important;
+    width: 500px !important;
+    height: auto;
+    border: solid 5px #0dcaf0;
+    margin-left: 70px;
+    border-radius: 20px;
+    font-size: 25px;
+}
+
+.fbttn {
+    margin-left: 80px;
+}
+
+#btndiv {
+    padding-left: 60px;
+}
+
+#sclmd {
+    padding-right: 90px !important;
+}
