@@ -96,6 +96,21 @@ section h3 {
     display: flex !important;
 }
 
+
+/* SECTION 1
+------------------------------
+
+SECTION 2 */
+
 .section2 p{
     font-size: 25px;
+    width: 600px;
+}
+
+
+
+
+.qoutes1 {
+    width: 600px;
+    text-align: center;
 }
