@@ -89,20 +89,19 @@ SECTION1 */
 }
 
 section h3 {
-    color:black;
-    background-color: antiquewhite;
+    color:#0dcaf0 ;
     width: fit-content;
-    border: 1px solid #0dcaf0 ;
-    border-radius: 10px;
+   
     padding: 2px;
 }
 
 
 .dortp {
     background-color: blueviolet;
-    border: 1px solid #0dcaf0 ;
-    border-radius: 10px;
-    padding: 2px;
+    border: 3px solid antiquewhite;
+    padding: 5px;
+    border-radius: 5px;
+
 }
 
 
@@ -153,3 +152,42 @@ SECTION 2 */
     margin-left: 20px;
     padding-left: 5px;
 }
+
+
+/* SECTION 2
+------------------------------
+
+CARDS */
+
+.f40img {
+    width: 40px !important;
+}
+
+.section3 {
+    margin-top: 100px;
+    padding-bottom: 5px;
+} 
+
+
+/* CARDS
+------------------------------
+
+ASIDE */
+
+ .divsearc{
+    margin-top: 10px;
+    padding-bottom: 50px;
+ }
+
+/* 
+ footer */
+
+ .cntr {
+    text-align: center;
+    padding-top: 20px;
+ }
+
+
+ .txt {
+    color: antiquewhite !important;
+ }
