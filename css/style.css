@@ -8,7 +8,7 @@
 
 #hdrbg {
     background-image: url(/assets/images/hdrbg.jpg) !important;
-    background-size: auto !important;
+    background-size: 100% !important;
 
 }
 
@@ -89,12 +89,23 @@ SECTION1 */
 }
 
 section h3 {
-    color: #0dcaf0;
+    color:black;
+    background-color: antiquewhite;
+    width: fit-content;
+    border: 1px solid #0dcaf0 ;
+    border-radius: 10px;
+    padding: 2px;
 }
 
-.albertdiv {
-    display: flex !important;
+
+.dortp {
+    background-color: blueviolet;
+    border: 1px solid #0dcaf0 ;
+    border-radius: 10px;
+    padding: 2px;
 }
+
+
 
 
 /* SECTION 1
@@ -102,15 +113,43 @@ section h3 {
 
 SECTION 2 */
 
-.section2 p{
-    font-size: 25px;
-    width: 600px;
+.section2{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
-
-
+.section2 p{
+    font-size: 25px;
+}
 
 .qoutes1 {
     width: 600px;
     text-align: center;
+}
+
+.pi {
+    margin-left: 50%;
+    background-color: blueviolet;
+    border: 10px solid #0dcaf0 ;
+    border-radius: 10px;
+}
+
+.albertimg {
+    margin-left: 400px !important;
+    border-radius: 50%;
+}
+
+.albertdiv {
+    display: flex !important;
+
+}
+
+.alpi {
+    background-color: blueviolet;
+    border: 1px solid #0dcaf0 ;
+    border-radius: 10px;
+    display: inline-block !important;
+    width: 300px;
+    margin-left: 20px;
+    padding-left: 5px;
 }
